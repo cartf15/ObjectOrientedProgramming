@@ -1,4 +1,4 @@
-class person(): 
+class person: 
     
     number_of_people= 0
 
